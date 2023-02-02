@@ -1,1 +1,1 @@
-pirnt("Benjamin Lira hello world")
+print("Benjamin Lira hello world")
